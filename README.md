@@ -37,3 +37,7 @@ FUNCFACTORIAL()     |   Factorial of a numbers
 |Input a number to find the factorial.                                   |
 
 
+
+![swotcalc](https://user-images.githubusercontent.com/53489451/114977397-39b6b600-9ea5-11eb-93d5-1f1aa027f7f2.jpg)
+
+

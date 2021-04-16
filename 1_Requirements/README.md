@@ -25,18 +25,21 @@ FUNCMULTIPLICATION()|   Multiplicatin of 2 numbers
 FUNCPOWER()	        |   Power of a numbers
 FUNCFACTORIAL()     |   Factorial of a numbers
 
+------------------------------------------------------------------------------------------------------------
+
 
 **LOW LEVEL REQUIREMENTS**
 
+Use         |Description
+----------- |--------------------------------------------------------------------------
+ADD         |Input the two numbers in funcaddition() for addition function		       
+SUBTRACT    |Input the two numbers in funcsubtraction() for subtraction function	   
+MULTIPLY    |Input the two numbers in funcmultiplication() for multiplicationfunction
+DIVIDE      |Input the two numbers in funcdivision() for division function           
+POWER       |Input a number to find the power of that number                         
+FACTORIAL   |Input a number to find the factorial.                                   
 
-|Input the two numbers in funcaddition() for addition function		       |
-|Input the two numbers in funcsubtraction() for subtraction function	   |
-|Input the two numbers in funcmultiplication() for multiplicationfunction|
-|Input the two numbers in funcdivision() for division function           |
-|Input a number to find the power of that number                         |
-|Input a number to find the factorial.                                   |
-
-
+--------------------------------------------------------------------------------------------------------------------------------
 
 
 

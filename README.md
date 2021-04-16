@@ -6,10 +6,10 @@ This Calculator Application is console based application in C programming langua
 
 **Benefits**
 
-"*"Application is fully customizable as user can change it according to their needs.
+- Application is fully customizable as user can change it according to their needs.
 
-"*"Very Responsive and fast.
+- Very Responsive and fast.
 
-"*"The user interface is simple and friendly.
+- The user interface is simple and friendly.
 
-"*"Users can perform various mathematical operations such as Addition, subtraction, division, multiplication, power of the number and factorial of the number.
+- Users can perform various mathematical operations such as Addition, subtraction, division, multiplication, power of the number and factorial of the number.

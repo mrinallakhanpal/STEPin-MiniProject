@@ -24,8 +24,10 @@ FUNCDIVISION()	    |   Division of 2 numbers
 FUNCMULTIPLICATION()|   Multiplicatin of 2 numbers
 FUNCPOWER()	        |   Power of a numbers
 FUNCFACTORIAL()     |   Factorial of a numbers
-**
-LOW LEVEL REQUIREMENTS**
+
+
+**LOW LEVEL REQUIREMENTS**
+
 -------------------------------------------------------------------------|
 |Input the two numbers in funcaddition() for addition function		       |
 |Input the two numbers in funcsubtraction() for subtraction function	   |

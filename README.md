@@ -28,7 +28,7 @@ FUNCFACTORIAL()     |   Factorial of a numbers
 
 **LOW LEVEL REQUIREMENTS**
 
---------------------------------------------------------------------------
+
 |Input the two numbers in funcaddition() for addition function		       |
 |Input the two numbers in funcsubtraction() for subtraction function	   |
 |Input the two numbers in funcmultiplication() for multiplicationfunction|

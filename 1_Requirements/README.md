@@ -40,5 +40,24 @@ FUNCFACTORIAL()     |   Factorial of a numbers
 
 
 
+**Folder Structure**
+
+Folder                |      Description
+-----------------     |    ---------------------------------------------------
+1_Requirements	      |     Detailed Requirements of the project
+2_Design	            |     Componental and Structural diagram of the project
+3_Architecture        |     Structural Diagram of the project
+3_Implementation	    |     Code, Unity Tests and DoxyFile
+4_ImagesAndVideos     |     Screenshot of the project	    
+
+
+
+
+
+
+
+
 
 ![swotcalc](https://user-images.githubusercontent.com/53489451/114977397-39b6b600-9ea5-11eb-93d5-1f1aa027f7f2.jpg)
+
+

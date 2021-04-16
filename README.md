@@ -13,3 +13,14 @@ This Calculator Application is console based application in C programming langua
 - The user interface is simple and friendly.
 
 - Users can perform various mathematical operations such as Addition, subtraction, division, multiplication, power of the number and factorial of the number.
+
+**HIGH LEVEL REQUIREMENTS**
+
+FUNCTION NAME       |   Description 
+---------------	    | ----------------------------  
+FUNCADDITION()	    |   Addition of 2 numbers
+FUNCSUBTRACTION()   |   Subtraction of 2 numbers
+FUNCDIVISION()	    |   Division of 2 numbers
+FUNCMULTIPLICATION()|   Multiplicatin of 2 numbers
+FUNCPOWER()	        |   Power of a numbers
+FUNCFACTORIAL()     |   Factorial of a numbers

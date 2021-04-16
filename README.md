@@ -38,6 +38,18 @@ FUNCFACTORIAL()     |   Factorial of a numbers
 
 
 
+**Folder Structure**
+Folder                      Description
+----------------------| ------------------------------------------------------
+1_Requirements	      |     Detailed Requirements of the project
+2_Design	            |     Componental and Structural diagram of the project
+3_Architecture        |     Structural Diagram of the project
+3_Implementation	    |     Code, Unity Tests and DoxyFile
+4_ImagesAndVideos     |     Screenshot of the project	    
+
+
+
+
 
 
 

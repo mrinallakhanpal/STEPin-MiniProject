@@ -24,3 +24,14 @@ FUNCDIVISION()	    |   Division of 2 numbers
 FUNCMULTIPLICATION()|   Multiplicatin of 2 numbers
 FUNCPOWER()	        |   Power of a numbers
 FUNCFACTORIAL()     |   Factorial of a numbers
+**
+LOW LEVEL REQUIREMENTS**
+-------------------------------------------------------------------------|
+|Input the two numbers in funcaddition() for addition function		       |
+|Input the two numbers in funcsubtraction() for subtraction function	   |
+|Input the two numbers in funcmultiplication() for multiplicationfunction|
+|Input the two numbers in funcdivision() for division function           |
+|Input a number to find the power of that number                         |
+|Input a number to find the factorial.                                   |
+|-------------------------------------------------------------------------
+

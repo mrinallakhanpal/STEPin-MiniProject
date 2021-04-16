@@ -2,7 +2,8 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Code Grade](<https://www.code-inspector.com/project/21411/status/svg>)](<https://frontend.code-inspector.com/project/21411/dashboard>)
-[![Code Grade](<BADGE-LINK>)](<https://www.code-inspector.com/project/21411/score/svg>)](<https://frontend.code-inspector.com/project/21411/dashboard
+
+[![Code Grade](<BADGE-LINK>)](<https://www.code-inspector.com/project/21411/score/svg>)](<https://frontend.code-inspector.com/project/21411/dashboard>)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 

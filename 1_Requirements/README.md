@@ -1,47 +1,44 @@
-# Requirements
+# L&T Technology Services STEPin-MiniProject 258413
 
-### Introduction
+**Introduction**
 
-Calculator Application(Console application without any graphics) is a project that allow users to calculate basic operations in mathematics( addition, subtraction, multiplication, division, factorial, modulus, power). However, the input has to be in the form "number1 number2 number3...soo on" as in advance the user will be asked to choose what operation he/she want to perform (i.e, addition,subtraction,power,etc) on the numbers. The input values can be from any integer to even a number with decimals.
+This Calculator Application is console based application in C programming language. The project allows the users to perform various mathematical operations using this calculator applications such as Addition, subtraction, division, multiplication, power of the number, factorial of the number. Firstly there will be a menu driven user interface where users selects which operation they want to perform.
 
-### Features
+**Benefits**
 
-1. The System is user friendly
-2. The System is efficient and fast in response
-3. The System can be customized according to needs
+- Application is fully customizable as user can change it according to their needs.
 
-### Defining our System
+- Very Responsive and fast.
 
-Our System is an actual implementation of how a calculator works. We demonstrated its internal working, along with all necessary equipments that a general purpose user might find handy. This calculator may well fit into any other subsystems and can be useful in such circumstances. It allow users to calculate basic operations in mathematics( addition, subtraction, multiplication, division, factorial, modulus, power). However, the input has to be in the form "number1 number2 number3...soo on" as in advance the user will be asked to choose what operation he/she want to perform (i.e, addition,subtraction,power,etc) on the numbers. The input values can be from any integer to even a number with decimals.
+- The user interface is simple and friendly.
 
-### Functional Requirements
+- Users can perform various mathematical operations such as Addition, subtraction, division, multiplication, power of the number and factorial of the number.
 
-|Functional Requirement  |                       Description                       |
-|:-----------------------|:--------------------------------------------------------|
-| addition()             | used for adding two or more numbers                     | 
-| subtraction()          | used for subtracting two or more numbers                |
-| multiplication()       | used for multiplying two or more numbers                |
-| division()             | used for dividing two or more numbers                   |
-| factorial()            | used for finding factor of a number                     |
-| modulus()              | used for finding modulus of a number                    |
-| power()                | used for finding power(i.e,square,cube,etc) of a number |
-| calculator_operations()| contains the menu for the user                          |
+**HIGH LEVEL REQUIREMENTS**
+
+FUNCTION NAME       |   Description 
+---------------	    | ----------------------------  
+FUNCADDITION()	    |   Addition of 2 numbers
+FUNCSUBTRACTION()   |   Subtraction of 2 numbers
+FUNCDIVISION()	    |   Division of 2 numbers
+FUNCMULTIPLICATION()|   Multiplicatin of 2 numbers
+FUNCPOWER()	        |   Power of a numbers
+FUNCFACTORIAL()     |   Factorial of a numbers
 
 
-### System Requirements
+**LOW LEVEL REQUIREMENTS**
 
-1. Operating System : Windows(xp,7,8,10) , Linux(Ubuntu)
-2. Language         : C Language
-3. Processor        : Pentium IV or more
-4. RAM              : 512 MB or more
-5. Hard Disk        : 5 GB or more
 
-### SWOT Analysis
+|Input the two numbers in funcaddition() for addition function		       |
+|Input the two numbers in funcsubtraction() for subtraction function	   |
+|Input the two numbers in funcmultiplication() for multiplicationfunction|
+|Input the two numbers in funcdivision() for division function           |
+|Input a number to find the power of that number                         |
+|Input a number to find the factorial.                                   |
 
-1. Strength         : Simple Interface, Useful through Calculus, Programmable, Easy Memory Management, Screen is Interactive.
 
-2. Weakness         : Sometimes Need an experienced user to operate, Limited operations for wide variety of applications in modern era.
 
-3. Oppurtunities    : Automates the impact of computation and technology, Progresses the problem solving insights, Develops a ability to describe strategy retrospectively.
 
-4. Threats          : Threats like Virus attack, code vulnerabilty, or cross platform.
+
+
+![swotcalc](https://user-images.githubusercontent.com/53489451/114977397-39b6b600-9ea5-11eb-93d5-1f1aa027f7f2.jpg)

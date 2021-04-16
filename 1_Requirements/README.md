@@ -4,6 +4,8 @@
 
 This Calculator Application is console based application in C programming language. The project allows the users to perform various mathematical operations using this calculator applications such as Addition, subtraction, division, multiplication, power of the number, factorial of the number. Firstly there will be a menu driven user interface where users selects which operation they want to perform.
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
 **Benefits**
 
 - Application is fully customizable as user can change it according to their needs.
@@ -13,6 +15,7 @@ This Calculator Application is console based application in C programming langua
 - The user interface is simple and friendly.
 
 - Users can perform various mathematical operations such as Addition, subtraction, division, multiplication, power of the number and factorial of the number.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **HIGH LEVEL REQUIREMENTS**
 
@@ -58,7 +61,7 @@ Folder                |      Description
 
 
 
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ![swotcalc](https://user-images.githubusercontent.com/53489451/114977397-39b6b600-9ea5-11eb-93d5-1f1aa027f7f2.jpg)
